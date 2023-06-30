@@ -1,0 +1,8 @@
+G:\MojeVisualStudio\LAB8_zad1\obj\Debug\LAB8_zad1.csproj.AssemblyReference.cache
+G:\MojeVisualStudio\LAB8_zad1\obj\Debug\LAB8_zad1.csproj.SuggestedBindingRedirects.cache
+G:\MojeVisualStudio\LAB8_zad1\obj\Debug\LAB8_zad1.csproj.CoreCompileInputs.cache
+G:\MojeVisualStudio\LAB8_zad1\bin\Debug\LAB8_zad1.exe.config
+G:\MojeVisualStudio\LAB8_zad1\bin\Debug\LAB8_zad1.exe
+G:\MojeVisualStudio\LAB8_zad1\bin\Debug\LAB8_zad1.pdb
+G:\MojeVisualStudio\LAB8_zad1\obj\Debug\LAB8_zad1.exe
+G:\MojeVisualStudio\LAB8_zad1\obj\Debug\LAB8_zad1.pdb
